@@ -1,3 +1,5 @@
+// Description of a simple Jenkins file
+
 pipeline {
     agent none
     stages {
